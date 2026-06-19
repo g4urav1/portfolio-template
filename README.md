@@ -19,7 +19,6 @@ This project showcases a simple portfolio layout that can be customized for pers
 
 - HTML
 - CSS
-- JavaScript
 
 ## Purpose
 
